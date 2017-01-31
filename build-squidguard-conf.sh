@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# BLACKLIST="adult,aggressive,alcohol,artnudes,beerliquorinfo,beerliquorsale,bitcoin,celebrity,dating,ddos,desktopsillies,dialers,drugs,ecommerce,filesharing,financial,gambling,hacking,lingerie,malware,mixed_adult,phishing,porn,proxy,remote-control,sexuality,sexualityeducation,spyware,violence,virusinfected,warez,weapons"
-
 CONFFILE="/etc/squidguard/squidGuard.conf"
 DB="/opt/blacklists/"
 
